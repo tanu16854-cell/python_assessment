@@ -1,4 +1,6 @@
-# Q1: Count uppercase, lowercase, digits, spaces, special characters
+# Q1. Write a Python program that accepts a paragraph from the user and calculates the number of uppercase
+# letters, lowercase letters, digits, spaces, and special characters. Display the result in descending order based on
+# frequency
 
 text = input("Enter a paragraph: ")
 
